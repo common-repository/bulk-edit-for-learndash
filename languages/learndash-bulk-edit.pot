@@ -1,0 +1,44 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bulk Edit for Learndash\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-27 19:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: learndash-bulk-edit"
+
+#. The slug name for the parent menu
+#. Page title
+#: admin/trbe-settings.php:6 admin/trbe-settings.php:7
+msgid "Bulk Edit"
+msgstr ""
+
+#. Name of the plugin
+#: admin/trbe-settings.php:20
+msgid "Bulk Edit for Learndash"
+msgstr ""
+
+#. Description of the plugin
+msgid "Bulk edit learnDash courses prices."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wptrat.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wptrat.com/learndash-bulk-edit /"
+msgstr ""
+
+#. Author of the plugin
+msgid "Luis Rock"
+msgstr ""
